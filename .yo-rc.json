@@ -1,0 +1,10 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "Contoso",
+      "unitTestsEnabled": false,
+      "useAzureAppInsights": false
+    },
+    "libraryName": "firstRepo4Azure"
+  }
+}
